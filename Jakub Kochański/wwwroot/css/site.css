@@ -4,7 +4,7 @@ html {
 
 @media (min-width: 768px) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
@@ -15,4 +15,24 @@ html {
 
 body {
   margin-bottom: 60px;
+}
+.shadow {
+    filter: drop-shadow(0px 0px 15px rgba(0,0,0,0.4));
+}
+.myIcon{
+    background-color:dodgerblue;
+    padding: 4px;
+}
+.myUl{
+    list-style:none;
+}
+li {
+    margin: 4px 0px 4px 0px;
+}
+.myHeader {
+    color: dodgerblue;
+    font-size:25px;
+}
+.myFont{
+    font-size: 20px;
 }
