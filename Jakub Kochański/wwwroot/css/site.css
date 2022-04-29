@@ -36,3 +36,6 @@ li {
 .myFont{
     font-size: 20px;
 }
+.myImg :hover {
+    transform: scale(1.05);
+}
